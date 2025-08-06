@@ -1,8 +1,6 @@
 impactful README.md file that you can include in your GitHub repo or portfolio to showcase your QA Automation + Manual + API + DevOps skills as someone with 1 year of experience.
 
-🧪 QA Automation | Manual | API Testing | DevOps Support
-👋 Hi, I'm Sai Kumar
-A passionate QA Engineer with hands-on experience in UI automation, manual testing, REST API validation, and basic DevOps practices. I ensure high product quality through structured test cases, scalable automation scripts, and early bug detection.
+
 
 🚀 Tech Stack & Tools
 Category	Tools / Skills
